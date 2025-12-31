@@ -1,12 +1,12 @@
 # ShadowLink V2
 Find on which site an email address is registered on using ShadowLink
-- Get it here --> [discord.gg/2RyM28f3EC](https://discord.gg/2RyM28f3EC)
+- Get it here --> [discord.gg/kj8CqU77Hj](https://discord.gg/kj8CqU77Hj)
 
 
 ## Preview:
 <img width="750" height="580" alt="image" src="https://github.com/user-attachments/assets/865da040-712b-481c-93c7-8247a3490035" />
 
-**Want to use it?** [Join our discord!](https://discord.gg/2RyM28f3EC)
+**Want to use it?** [Join our discord!](https://discord.gg/kj8CqU77Hj)
 
 ## ShadowLink supports the following platforms:
 - Picsart
@@ -27,4 +27,4 @@ Find on which site an email address is registered on using ShadowLink
 - P0rnhvb
 - Imgur
 
-Get it here --> [discord.gg/2RyM28f3EC](https://discord.gg/2RyM28f3EC)
+Get it here --> [discord.gg/kj8CqU77Hj](https://discord.gg/kj8CqU77Hj)
